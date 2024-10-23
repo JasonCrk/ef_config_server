@@ -1,2 +1,2 @@
 eureka-server:
-  port: 8100
+  port: 8761
